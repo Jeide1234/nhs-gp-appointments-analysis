@@ -143,11 +143,7 @@ Use standardized data cleaning processes to improve healthcare reporting reliabi
 - Presentation Slides
 - Project Screenshot
 - README Documentation
-
----
-
-##(Screenshot/NHS GP Appointments Dataset_Data Cleaning_Quality Report.png)
-
+  
 ---
 
 ## ✅ Final Conclusion
